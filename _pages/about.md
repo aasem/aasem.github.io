@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>National University of Sciences and Technology, Islamabad, Pakistan</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Islamabad, Pakistan</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,8 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have wide-ranging technical interests from machine learning and signal processing to language and logic. I am an undergraduate in electrical engineering and have graduate degrees in computer engineering. My doctoral research, which now seems a distant event in the past, was focussed on the analysis of cariophysiological signals, however, I have also done active research in computer vision and IoT security. I am currently working in the area of speech and natural language processing. You can see my technical publications here. I am associated with the Center of Data and Text Engineering and Mining, National University of Sciences and Technology, Islamabad. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also a literary hobbyist with multidisciplinary interests in philosophy, science, and literature. I have been associated as a translator with the Tempelton Foundation grant titled From Conflict-Independence to Dialogue-Integration: Discovering and Designing Resources for Rethinking the Religion-Science Relationship in Pakistan. As part of the project, my translated essays on the philosophy of science of Charles Sanders Peirce won the Urdu Science Award 2017. I have also translated various novels, short stories, and non-fiction anthologies. A collection of my poetry Shahrah-e-Shawq was published in 2015 (you can access it here). My book Dubidha won the prestigious KLF 2022 best book award in the category of Urdu prose (you can buy it here). An incomplete list of my literary works is shared below.
